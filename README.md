@@ -27,5 +27,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - HTML markup
 - CSS / SCSS custom properties
 
+### Learnings
+- Usage of multiple background images - [CSS Multiple Backgrounds] (https://www.w3schools.com/css/css3_backgrounds.asp)
+
 ## Author
 - Frontend Mentor - [@rtlatayan](https://www.frontendmentor.io/profile/rtlatayan)
