@@ -9,6 +9,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
   - [Screenshot](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [Learnings](#learnings)
 - [Author](#author)
 
 ## Overview
@@ -28,7 +29,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - CSS / SCSS custom properties
 
 ### Learnings
-- Usage of multiple background images - [CSS Multiple Backgrounds] (https://www.w3schools.com/css/css3_backgrounds.asp)
+- Usage of multiple background images - [CSS Multiple Backgrounds](https://www.w3schools.com/css/css3_backgrounds.asp)
 
 ## Author
 - Frontend Mentor - [@rtlatayan](https://www.frontendmentor.io/profile/rtlatayan)
