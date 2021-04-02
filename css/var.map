@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "var.css",
+	"sources": [
+		"../scss/var.scss"
+	],
+	"sourcesContent": [
+		"$dark-cyan: hsl(185, 75%, 39%);\n$very-dark-desaturated-blue: hsl(229, 23%, 23%);\n$dark-grayish-blue: hsl(227, 10%, 46%);\n$dark-gray: hsl(0, 0%, 59%);\n\n$font-size-base: 18px;\n$font-family-main: 'Kumbh Sans', sans-serif;\n\n$border-radius-size: 2em;\n\n$mobile-width: 375px;\n$desktop-width: 375px;"
+	],
+	"names": [],
+	"mappings": ""
+}
